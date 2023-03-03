@@ -3,5 +3,6 @@
   <component name="NewModuleRootManager">
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Coding Dojo - Data Science Bootcamp" />
   </component>
 </module>
